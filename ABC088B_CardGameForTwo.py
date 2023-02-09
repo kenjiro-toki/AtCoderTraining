@@ -1,3 +1,5 @@
+# if listで中身がある時に処理する
+
 N = int(input())
 num = list(map(int, input().split()))
 # print(num)

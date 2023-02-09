@@ -1,3 +1,5 @@
+# 特にいうことはない
+
 grids = input()
 
 sum = 0

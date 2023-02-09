@@ -1,3 +1,6 @@
+# list内包表記
+# 各桁は10で割った余りで出す方がメジャー
+
 N, A, B = map(int, input().split())
 
 output = []

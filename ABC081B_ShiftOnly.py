@@ -1,3 +1,5 @@
+# whileとfor
+
 N = int(input())
 num = input().split()
 

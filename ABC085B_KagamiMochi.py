@@ -1,3 +1,5 @@
+# sortの使い方
+
 N = int(input())
 d_list = []
 for i in range(N):

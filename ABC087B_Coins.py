@@ -1,3 +1,4 @@
+# 全探索多重ループ
 five_hundred = int(input())
 one_hundred = int(input())
 fifty = int(input())

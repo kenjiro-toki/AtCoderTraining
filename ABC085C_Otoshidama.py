@@ -1,3 +1,6 @@
+# 多重ループを抜ける方法
+# 処理が重すぎて没
+
 N, Y = map(int, input().split())
 
 for x in range(N+1):
