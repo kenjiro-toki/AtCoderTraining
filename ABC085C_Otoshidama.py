@@ -21,6 +21,7 @@ N, Y = map(int, input().split())
 #     else:
 #         continue
 #     break
+# こん
 
 for x in range(N+1):
     for y in range(N+1):
