@@ -28,7 +28,7 @@ for x in range(N+1):
         sum = 10000*x + 5000*y + 1000*z
         # print(total)
         if z < 0:
-            # print(f"{x} {y} {z}")
+            # print(f"{x} {y} {z}
             if x == y == N:
                 print("-1 -1 -1")
                 break
