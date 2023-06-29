@@ -2,7 +2,6 @@ S = input()
 SCopy = S
 T = ""
 
-
 while len(S) > 0:
     A = S.find("dream")
     B = S.find("dreamer")
